@@ -20,9 +20,9 @@ namespace JungleStack
 
         private static readonly Vector3[] StackRouteDire =
         {
-            new Vector3(3458, -640, 127),  // Wait for attack
-            new Vector3(2278, 338, 127), // Move for pulling
-            new Vector3(3808, -96, 256) // Wait position
+            new Vector3(3472, 615, 127),  // Wait for attack
+            new Vector3(5176, 612, 256), // Move for pulling
+            new Vector3(3472, 615, 127) // Wait position
         };
 
         private const int StartTimeRadiant = 47;
