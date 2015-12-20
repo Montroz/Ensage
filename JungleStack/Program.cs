@@ -22,7 +22,7 @@ namespace JungleStack
         {
             new Vector3(3402, -550, 127),  // Wait for attack
             new Vector3(4902, 450, 256), // Move for pulling
-            new Vector3(3402, -550, 127) // Wait position
+            new Vector3(3302, -550, 127) // Wait position
         };
 
         private const int StartTimeRadiant = 47;
